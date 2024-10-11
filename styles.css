@@ -235,6 +235,10 @@ details button {
     margin-bottom: 20px;
 }
 
+.feedback h2 span {
+    color: var(--primary);
+}
+
 .feedback p {
     margin-bottom: 20px;
     font-weight: 300;
